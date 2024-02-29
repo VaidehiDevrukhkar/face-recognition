@@ -12,6 +12,10 @@ This Python code uses the dlib library and computer vision techniques to create 
 1. Install the required libraries:
     ```bash
     pip install opencv-python numpy dlib
+    git clone git clone https://github.com/VaidehiDevrukhkar/face-recognition/
+    cd face-recognition
+    python face_recognition.py
+   
     ```
 2. Download the pre-trained facial landmark predictor model file (`shape_predictor_68_face_landmarks.dat`) from [dlib's official website](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) and place it in the same directory as the script.
 
