@@ -18,7 +18,7 @@ This Python code uses the dlib library and computer vision techniques to create 
 ## How to Use
 1. Run the script:
     ```bash
-    python your_script_name.py
+    python face_recognition.py
     ```
 2. A window will open showing your camera feed with a rectangular frame around your face.
 3. The virtual keyboard will be displayed on the screen.
